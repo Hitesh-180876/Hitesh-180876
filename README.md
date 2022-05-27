@@ -9,4 +9,5 @@ Hitesh-180876/Hitesh-180876 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api username=Hitesh-180876 &theme=radical
+![Hitesh's github stats](https://github-readme-stats.vercel.app/api?username=Hitesh-180876&theme=radical)
+
