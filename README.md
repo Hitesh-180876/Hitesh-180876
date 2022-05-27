@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hitesh-180876
-- 👀 I’m interested in web developmentand problem solving.
+- 👀 I’m interested in web development and problem solving.
 - 🌱 I’m currently learning API development and System Design.
 - 💞️ I’m looking to work with fast paced environment.
 - 📫 How to reach me - hitesh97sh@gmail.com 
