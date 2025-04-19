@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hitesh
-- 👀 I’m interested in web development and problem solving.
-- 🌱 I’m currently learning Apache Kafka and spark
+- 👀 Keen interest in Finance, Biology and Farming.
+- 🌱 Java, Go, NATS, Jetstream, System Design, Data Structure & Algorithms, Debugging.
 - 💞️ I’m looking to work with fast paced environment.
 - 📫 How to reach me - hitesh97sh@gmail.com 
 
